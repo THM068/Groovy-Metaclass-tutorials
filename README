@@ -3,4 +3,5 @@ The Topics covered are :
    -Expando class and how it is implemented i.e getters , setters and method missing
    - metaclass
    - creating dynamic methods
+   - Dynamic dispatch capabilities of groovy
 
