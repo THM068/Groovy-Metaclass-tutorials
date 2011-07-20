@@ -1,0 +1,6 @@
+The application contains code that shows the dynamic features of groovy.
+The Topics covered are :
+   -Expando class and how it is implemented i.e getters , setters and method missing
+   - metaclass
+   - creating dynamic methods
+
